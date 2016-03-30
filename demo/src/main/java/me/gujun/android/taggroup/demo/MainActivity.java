@@ -12,7 +12,10 @@ import android.widget.Toast;
 import me.gujun.android.taggroup.TagGroup;
 import me.gujun.android.taggroup.demo.db.TagsManager;
 
-
+/**
+ * @author  lt
+ * 2016.3.30
+ */
 public class MainActivity extends ActionBarActivity {
     private TextView mPromptText;
 
